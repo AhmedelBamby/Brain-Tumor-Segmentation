@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Eng.Ahmed Hany ElBamby** - [GitHub Profile](https://github.com/AhmedelBamby)
 
 ## Contact
-For questions or feedback, please contact [email@example.com](mailto:ahmedelbamby1102003@gmail.com).
+For questions or feedback, please contact (mailto:ahmedelbamby1102003@gmail.com).
 ## Changelog
 - **Version 1.0**: Initial release
